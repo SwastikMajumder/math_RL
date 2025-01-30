@@ -1,4 +1,4 @@
-```started
+started
 1 / 3 , 29 / 100
 2 / 3 , 32 / 100
 3 / 3 , 25 / 100
@@ -11,7 +11,7 @@ int(((2*(x+x))*dif(x)))
 ((((x^2)*(2^-1))+int((x*dif(x))))*2)
 (2*(((x^2)*(2^-1))+int((x*dif(x)))))
 (2*(int((x*dif(x)))+((x^2)*(2^-1))))
-(2*(((x^2)*(2^-1))+((x^2)*(2^-1))))```
+(2*(((x^2)*(2^-1))+((x^2)*(2^-1))))
 
 the math software trains on the below equations by self learning so that reinforcement learning can act on the equation which we were actually trying to solve
 

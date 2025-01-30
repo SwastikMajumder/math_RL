@@ -14,7 +14,7 @@ int(((2*(x+x))*dif(x)))
 (2*(((x^2)*(2^-1))+((x^2)*(2^-1))))```
 
 the math software trains on the below equations by self learning so that reinforcement learning can act on the equation which we were actually trying to solve
-```
+
 int(((x+x)*dif(x)))
 int(((x+4)*dif(x)))
-int(((7*(x+x))*dif(x)))```
+int(((7*(x+x))*dif(x)))

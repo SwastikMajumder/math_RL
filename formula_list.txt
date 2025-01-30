@@ -1,0 +1,101 @@
+f_int
+ f_mul
+  v_0
+  f_dif
+   v_0
+
+f_mul
+ f_pow
+  v_0
+  d_2
+ f_pow
+  d_2
+  d_-1
+
+f_int
+ f_mul
+  f_add
+   u_0
+   u_1
+  f_dif
+   u_2
+
+f_add
+ f_int
+  f_mul
+   u_0
+   f_dif
+    u_2
+ f_int
+  f_mul
+   u_1
+   f_dif
+    u_2
+
+f_add
+ u_0
+ u_1
+
+f_add
+ u_1
+ u_0
+
+f_mul
+ u_0
+ f_add
+  u_1
+  u_2
+
+f_add
+ f_mul
+  u_0
+  u_1
+ f_mul
+  u_0
+  u_2
+
+f_int
+ f_mul
+  f_mul
+   p_0
+   u_0
+  f_dif
+   u_1
+
+f_mul
+ p_0
+ f_int
+  f_mul
+   u_0
+   f_dif
+    u_1
+
+f_int
+ f_mul
+  p_0
+  f_dif
+   u_0
+
+f_mul
+ p_0
+ u_0
+
+f_add
+ u_0
+ f_add
+  u_1
+  u_2
+
+f_add
+ u_2
+ f_add
+  u_0
+  u_1
+
+f_mul
+ u_0
+ u_1
+
+f_mul
+ u_1
+ u_0
